@@ -1,5 +1,4 @@
 import logo from '../images/logo.svg';
-import {pageLinks, socialLinks} from '../data-js';
 import PageLinks from './PageLink';
 import PageIcons from './PageIcons';
 
